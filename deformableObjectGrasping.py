@@ -28,6 +28,7 @@ class deformableObjectGrasping(BaseSample):
         # Station W5
         table_prim_path = "/World/cute_table"
         table_absolute_asset_path = "/home/isle/Desktop/Table.usd"
+        # self-modified: you should download the USD file and change the asset path
         add_reference_to_stage(usd_path=table_absolute_asset_path, prim_path=table_prim_path)
         table = world.scene.add(RigidPrim(prim_path=table_prim_path,
                                           name="cute_table",
