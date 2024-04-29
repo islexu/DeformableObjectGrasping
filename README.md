@@ -16,6 +16,8 @@ Follow these steps to install the DeformableObjectGrasping extension:
    ```bash
    git clone https://github.com/islexu/DeformableObjectGrasping
 
+3. **Relaunch Isaac Sim**:
+
 ## Repository Structure
 
 The repository includes the following components:
