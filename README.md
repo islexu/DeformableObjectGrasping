@@ -13,8 +13,8 @@ Follow these steps to install the DeformableObjectGrasping extension:
    cd ~/.local/share/ov/pkg/isaac_sim-2023.1.1/exts/omni.isaac.examples/omni/isaac/examples/user_examples
 
 2. **Clone the repository**:
-git clone [your-repo-url] DeformableObjectGrasping
-
+   ```bash
+   git clone https://github.com/islexu/DeformableObjectGrasping
 
 ## Repository Structure
 
