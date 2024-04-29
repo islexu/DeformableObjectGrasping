@@ -110,5 +110,3 @@ class deformableObjectGrasping(BaseSample):
             
     async def setup_post_load(self):        
         self._world = self.get_world()
-
-# Remember to handle other operations and functionality as required by your application logic.
