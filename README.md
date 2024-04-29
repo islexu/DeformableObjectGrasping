@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DeformableObjectGrasping extension enhances the capabilities of robotic arms in the Omniverse Isaac Sim, focusing on interactions with deformable objects. This extension provides a customizable simulation environment to optimize robotic grasping mechanisms in virtual scenarios, aiding developers and researchers.
+The goal of this project is to create a highly customizable simulation environment for a robotic arm to grasp soft objects. For example, let the robotic arm grasp a flexible cup filled with water like a human.
 
 ## Installation
 
