@@ -48,6 +48,8 @@ Inherits from `BaseSampleExtension`, managing the extension lifecycle:
 ## Getting Started
 
 After installation, access the DeformableObjectGrasping extension from the Isaac Sim menu under user examples. Customize the environment and parameters based on your needs to start simulating and interacting with the scene.
+![image](https://github.com/islexu/DeformableObjectGrasping/assets/47247886/1bf49911-9874-4215-8e87-f05238000fce)
+
 
 ## Conclusion
 
