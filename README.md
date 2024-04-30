@@ -16,7 +16,7 @@ Follow these steps to install the DeformableObjectGrasping extension:
    ```bash
    git clone https://github.com/islexu/DeformableObjectGrasping
 
-3. **Modify the path of "Table.usd"**.
+3. **Modify the "Table.usd" path in deformableObjectGrasping.py**.
 
 4. **Relaunch Isaac Sim**.
 
