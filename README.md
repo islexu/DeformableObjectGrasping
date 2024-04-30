@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project is to create a highly customizable simulation environment for a robotic arm to grasp soft objects. For example, let the robotic arm grasp a flexible cup filled with water like a human.
+The goal of this project is to create a highly customizable simulation environment for a robotic arm to grasp soft objects. For example, let the robotic arm grasp a flexible cup filled with water like a human. By the way, you can also view the deformable Franka example Isaac Sim provided and the source code.
 
 ## Installation
 
