@@ -15,6 +15,11 @@ Follow these steps to install the DeformableObjectGrasping extension:
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/islexu/DeformableObjectGrasping ./
+   
+   Please ensure the target directory is empty to avoid conflicts or confusion. You can do this by clearing the current directory.
+
+   Backup any files: If there are files in the current directory that you need to keep, make sure to back them up.
+   Clear the directory: Delete all files and folders in the current directory.
 
 3. **Modify the "Table.usd" path in deformableObjectGrasping.py**.
 
