@@ -14,7 +14,7 @@ Follow these steps to install the DeformableObjectGrasping extension:
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/islexu/DeformableObjectGrasping
+   git clone https://github.com/islexu/DeformableObjectGrasping ./
 
 3. **Modify the "Table.usd" path in deformableObjectGrasping.py**.
 
