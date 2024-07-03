@@ -15,7 +15,7 @@ Follow these steps to install the DeformableObjectGrasping extension:
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/islexu/DeformableObjectGrasping ./
-   
+   ```
 
    Please ensure the target directory is empty to avoid conflicts or confusion. You can do this by clearing the current directory.
 
