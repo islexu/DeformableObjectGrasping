@@ -19,12 +19,13 @@ Follow these steps to install the DeformableObjectGrasping extension:
 
    Please ensure the target directory is empty to avoid conflicts or confusion. You can do this by clearing the current directory.
 
-   Backup any files: If there are files in the current directory that you need to keep, make sure to back them up.
+   Backup any files: If there are files in the current directory you need to keep, back them up.
+   
    Clear the directory: Delete all files and folders in the current directory.
 
-3. **Modify the "Table.usd" path in deformableObjectGrasping.py**.
+4. **Modify the "Table.usd" path in deformableObjectGrasping.py**.
 
-4. **Relaunch Isaac Sim**.
+5. **Relaunch Isaac Sim**.
 
 ## Repository Structure
 
